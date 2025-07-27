@@ -4,8 +4,8 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
-     "lint": "eslint .",
-    "integration": "test-api.test.js"
+  "integration": "jest test-api.test.js"
+   
   },
   "keywords": [],
   "author": "",
